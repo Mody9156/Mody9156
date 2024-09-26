@@ -1,16 +1,24 @@
-## Hi there 👋
+## Hello 👋, I'm Modibo
 
-<!--
-**Mody9156/Mody9156** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I am a 25-year-old student specializing in iOS mobile development, passionate about building sleek and high-performance applications for the Apple ecosystem. Currently, I am in the process of learning and exploring the latest iOS technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 What I do:
+🌱 I’m learning and mastering Swift and SwiftUI.
+👨‍💻 I work on personal projects using Xcode and technologies like Core Data, Combine, and UIKit.
+🎯 My goal is to become a well-rounded and proficient iOS mobile developer.
+
+💡 My goals:
+Develop innovative and user-friendly apps that enhance the user experience.
+Contribute to open-source projects to grow my skills and connect with the developer community.
+
+🔧 Skills:
+Languages: Swift, CSS, HTML, JavaScript 
+Frameworks: SwiftUI, UIKit, Core Data, Combine
+Tools: Xcode, Git, GitHub
+Testing: XCTest
+
+📫 Get in touch:
+Email: modykeita2@gmail.com
+
+I’m always open to new opportunities and collaborations. Feel free to check out my projects and reach out if you’d like to connect or work together!
