@@ -20,6 +20,7 @@ Contribute to open-source projects to grow my skills and connect with the develo
 Languages: Swift, CSS, HTML, JavaScript 
 
 Frameworks: SwiftUI, UIKit, Core Data, Combine
+
 Tools: Xcode, Git, GitHub
 
 Testing: XCTest
