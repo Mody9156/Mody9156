@@ -16,9 +16,12 @@ Develop innovative and user-friendly apps that enhance the user experience.
 Contribute to open-source projects to grow my skills and connect with the developer community.
 
 🔧 Skills:
+
 Languages: Swift, CSS, HTML, JavaScript 
+
 Frameworks: SwiftUI, UIKit, Core Data, Combine
 Tools: Xcode, Git, GitHub
+
 Testing: XCTest
 
 📫 Get in touch:
