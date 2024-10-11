@@ -1,31 +1,29 @@
-## Hello 👋, I'm Modibo
+## Bonjour 👋, I'm Modibo
 
 
-I am a 25-year-old student specializing in iOS mobile development, passionate about building sleek and high-performance applications for the Apple ecosystem. Currently, I am in the process of learning and exploring the latest iOS technologies.
+Je suis un étudiant de 25 ans spécialisé dans le développement mobile iOS, passionné par la création d'applications élégantes et performantes pour l'écosystème Apple. Actuellement, j'explore les dernières technologies iOS.
 
-🚀 What I do: 
+🚀 Ce que je fais: 
 
-🌱 I’m learning and mastering Swift and SwiftUI. 
+🌱 J’apprends et maîtrise Swift et SwiftUI.
 
-👨‍💻 I work on personal projects using Xcode and technologies like Core Data, Combine, and UIKit. 
+👨‍💻 Je travaille sur des projets personnels en utilisant Xcode et des technologies comme Core Data, Combine et UIKit.
 
-🎯 My goal is to become a well-rounded and proficient iOS mobile developer. 
+🎯 Mon objectif : Devenir un développeur mobile iOS polyvalent et compétent.
 
-💡 My goals:
-Develop innovative and user-friendly apps that enhance the user experience.
-Contribute to open-source projects to grow my skills and connect with the developer community.
+💡 Mes ambitions : Développer des applications innovantes et conviviales qui améliorent l'expérience utilisateur. Contribuer à des projets open-source pour développer mes compétences et me connecter avec la communauté des développeurs.
 
-🔧 Skills:
+🔧 Compétences:
 
-Languages: Swift, CSS, HTML, JavaScript 
+Langages: Swift, CSS, HTML, JavaScript 
 
 Frameworks: SwiftUI, UIKit, Core Data, Combine
 
-Tools: Xcode, Git, GitHub
+Outils: Xcode, Git, GitHub
 
-Testing: XCTest
+Tests: XCTest
 
-📫 Get in touch:
+📫 Contactez-moi:
 Email: modykeita2@gmail.com
 
-I’m always open to new opportunities and collaborations. Feel free to check out my projects and reach out if you’d like to connect or work together!
+Je suis toujours ouvert à de nouvelles opportunités et collaborations. N'hésitez pas à consulter mes projets et à me contacter si vous souhaitez échanger ou travailler ensemble !
