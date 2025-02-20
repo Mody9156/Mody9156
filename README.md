@@ -1,7 +1,7 @@
 ## Bonjour 👋, I'm Modibo
 
 
-Je suis un étudiant de 25 ans spécialisé dans le développement mobile iOS, passionné par la création d'applications élégantes et performantes pour l'écosystème Apple. Actuellement, j'explore les dernières technologies iOS.
+Je suis un étudiant de 26 ans spécialisé dans le développement mobile iOS, passionné par la création d'applications élégantes et performantes pour l'écosystème Apple. Actuellement, j'explore les dernières technologies iOS.
 
 🚀 Ce que je fais: 
 
