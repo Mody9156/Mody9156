@@ -95,7 +95,7 @@ App web React pour découvrir et acheter des plantes via une interface simple.
 
 - 📬 Email : [modykeita2@gmail.com](mailto:modykeita2@gmail.com)  
 - 💼 [Mon LinkedIn](https://www.linkedin.com/in/modibo-keita-337746278)
-- 📱 [App sur l’App Store](https://apps.apple.com/app/idTONID) *(à remplacer par le bon lien)*  
+- 📱 [App sur l’App Store](https://apps.apple.com/app/idTONID) *()*  
 - 💻 GitHub :
   - [Compte principal – Mody9156](https://github.com/Mody9156?tab=repositories)
   - [Deuxième compte – KMIOS91](https://github.com/KMIOS91)
