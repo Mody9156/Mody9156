@@ -31,14 +31,14 @@ Je conçois des apps sur mesure pour l’écosystème Apple, en utilisant les de
 ### 🔹 MediStock (janv. 2025 – avr. 2025)
 Application iOS pour la gestion interne des stocks de médicaments, développée sur mesure pour un service logistique.  
 **Stack** : SwiftUI, Firebase, MVVM, CI/CD, tests unitaires  
-🔗 [Lien GitHub](https://github.com/Mody9156/MediStock)
+🔗 [Lien GitHub]([https://github.com/Mody9156/MediStock](https://github.com/Mody9156/Rebonnte_P16DAIOS))
 
 ---
 
 ### 🔹 JoieFull (nov. 2024)
 App iOS pour rechercher et liker des vêtements via une interface fluide et intuitive.  
 **Stack** : SwiftUI, MVVM  
-🔗 [Lien GitHub](https://github.com/Mody9156/Rebonnte_P16DAIOS)
+🔗 [Lien GitHub]([https://github.com/Mody9156/Rebonnte_P16DAIOS](https://github.com/Mody9156/Cr-ez-une-interface-dynamique-et-accessible-avec-SwiftUI))
 
 ---
 
