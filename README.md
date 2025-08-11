@@ -38,28 +38,28 @@ Application iOS pour la gestion interne des stocks de médicaments, développée
 ### 🔹 JoieFull (nov. 2024)
 App iOS pour rechercher et liker des vêtements via une interface fluide et intuitive.  
 **Stack** : SwiftUI, MVVM  
-🔗 [Lien GitHub]([https://github.com/Mody9156/JoieFull](https://github.com/Mody9156/Cr-ez-une-interface-dynamique-et-accessible-avec-SwiftUI)])
+🔗 [Lien GitHub](https://github.com/Mody9156/Rebonnte_P16DAIOS)
 
 ---
 
 ### 🔹 Testez une application iOS (nov. 2024)
 Projet de formation aux tests unitaires et au refactoring dans un contexte iOS réel.  
 **Stack** : SwiftUI, MVVM, XCTest  
-🔗 [Lien GitHub]([https://github.com/Mody9156/TestAppiOS](https://github.com/Mody9156/P13-1_DA-iOS)])
+🔗 [Lien GitHub](https://github.com/Mody9156/TestAppiOS](https://github.com/Mody9156/P13-1_DA-iOS))
 
 ---
 
 ### 🔹 Taj Mahal (oct. 2024)
 Application de consultation du menu pour un restaurant, pensée pour améliorer l’expérience client.  
 **Stack** : SwiftUI, MVVM, tests unitaires  
-🔗 [Lien GitHub]([https://github.com/Mody9156/TajMahal](https://github.com/Mody9156/Application_Taj_Mahal)])
+🔗 [Lien GitHub](https://github.com/Mody9156/TajMahal](https://github.com/Mody9156/Application_Taj_Mahal))
 
 ---
 
 ### 🔹 TravelVista (oct. 2024)
 Migration d’une UI UIKit vers SwiftUI dans une app de voyage moderne.  
 **Stack** : UIKit, SwiftUI, Git, MVVM  
-🔗 [Lien GitHub]([https://github.com/Mody9156/TravelVista](https://github.com/Mody9156/P9_IOS_TravelVista))
+🔗 [Lien GitHub](https://github.com/Mody9156/TravelVista](https://github.com/Mody9156/P9_IOS_TravelVista))
 
 ---
 
@@ -73,21 +73,21 @@ App bien-être pour suivre les exercices physiques et le sommeil, avec base de d
 ### 🔹 Aura (avr. 2024 – mai 2024)
 Application bancaire permettant de gérer comptes et transactions, avec design clair et structuré.  
 **Stack** : SwiftUI, UIKit, MVVM, Tests  
-🔗 [Lien GitHub]([https://github.com/Mody9156/Aura](https://github.com/Mody9156/DA-iOS_P5)])
+🔗 [Lien GitHub](https://github.com/Mody9156/Aura](https://github.com/Mody9156/DA-iOS_P5))
 
 ---
 
 ### 🔹 SwiftUI User List (mars 2024)
 App affichant une liste d’utilisateurs avec navigation et détails.  
 **Stack** : SwiftUI, MVVM, tests unitaires  
-🔗 [Lien GitHub]([https://github.com/Mody9156/SwiftUIUserList](https://github.com/Mody9156/DA-iOS_P4_exercise-2)])
+🔗 [Lien GitHub](https://github.com/Mody9156/SwiftUIUserList](https://github.com/Mody9156/DA-iOS_P4_exercise-2))
 
 ---
 
 ### 🔹 Boutique de Plantes (août 2023)
 App web React pour découvrir et acheter des plantes via une interface simple.  
 **Stack** : React.js, JavaScript, HTML, CSS  
-🔗 [Lien GitHub]([https://github.com/Mody9156/PlantesShop](https://github.com/Mody9156/Shop)])
+🔗 [Lien GitHub](https://github.com/Mody9156/PlantesShop](https://github.com/Mody9156/Shop))
 
 ---
 
