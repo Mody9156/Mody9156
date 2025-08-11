@@ -31,7 +31,7 @@ Je conçois des apps sur mesure pour l’écosystème Apple, en utilisant les de
 ### 🔹 MediStock (janv. 2025 – avr. 2025)
 Application iOS pour la gestion interne des stocks de médicaments, développée sur mesure pour un service logistique.  
 **Stack** : SwiftUI, Firebase, MVVM, CI/CD, tests unitaires  
-🔗 [Lien GitHub](https://github.com/Mody9156/MediStock](https://github.com/Mody9156/Rebonnte_P16DAIOS))
+🔗 [Lien GitHub]([https://github.com/Mody9156/MediStock](https://github.com/Mody9156/Rebonnte_P16DAIOS)])
 
 ---
 
