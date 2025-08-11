@@ -38,7 +38,7 @@ Application iOS pour la gestion interne des stocks de médicaments, développée
 ### 🔹 JoieFull (nov. 2024)
 App iOS pour rechercher et liker des vêtements via une interface fluide et intuitive.  
 **Stack** : SwiftUI, MVVM  
-🔗 [Lien GitHub](https://github.com/Mody9156/Rebonnte_P16DAIOS](https://github.com/Mody9156/Cr-ez-une-interface-dynamique-et-accessible-avec-SwiftUI))
+🔗 [Lien GitHub](https://github.com/Mody9156/Cr-ez-une-interface-dynamique-et-accessible-avec-SwiftUI)
 
 ---
 
