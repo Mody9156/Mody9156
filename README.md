@@ -1,9 +1,18 @@
-# 👋 Bonjour, je suis Modibo
+<div>
+  <img style="width:100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&fontSize=70&fontColor=FFFFFF&theme=cobalt"  />
+</div>
 
-Développeur iOS passionné par la création d'applications élégantes, performantes et orientées utilisateur.  
-Je conçois des apps sur mesure pour l’écosystème Apple, en utilisant les dernières technologies Swift et SwiftUI.
+<div align="center">
+  <img height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm01ZTBhemc5amU2MG84aDAxcDA1YjZycjIwbTNzNjNpb2hkczJmYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EZr27ZbJwmjE9PGyLN/giphy.gif"  />
+</div>
 
-🎯 Actuellement en recherche d'un **CDI en développement mobile iOS**.
+<h1 align="center">👋 Bonjour, je suis Modibo</h1>
+
+---
+
+<p align="center">Développeur iOS passionné par la création d'applications élégantes, performantes et orientées utilisateur.<br>Je conçois des apps sur mesure pour l’écosystème Apple, en utilisant les dernières technologies Swift et SwiftUI.</p>
+
+<p align="center">🎯 Actuellement en recherche d'un <b>CDI en développement mobile iOS</b>.</p>
 
 ---
 
@@ -12,7 +21,7 @@ Je conçois des apps sur mesure pour l’écosystème Apple, en utilisant les de
 🌱 J’apprends et maîtrise **Swift**, **SwiftUI** et **UIKit**  
 👨‍💻 Je construis des projets personnels en utilisant **Xcode**, **Core Data**, **Combine**, **Firebase** et plus encore  
 🎯 Mon objectif : devenir un développeur mobile iOS polyvalent et compétent  
-💡 Mes ambitions : créer des apps utiles, contribuer à l’open source et collaborer avec d'autres passionnés
+💡 Mes ambitions : créer des apps utiles, contribuer à l’open source et collaborer avec d'autres passionnés  
 
 ---
 
@@ -22,7 +31,17 @@ Je conçois des apps sur mesure pour l’écosystème Apple, en utilisant les de
 **Frameworks** : SwiftUI, UIKit, Core Data, Combine  
 **Outils** : Xcode, Git, GitHub, Postman, Notion  
 **Architecture** : MVVM  
-**Tests** : XCTest, Tests unitaires, CI/CD
+**Tests** : XCTest, Tests unitaires, CI/CD  
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="50" />
+</div>
 
 ---
 
@@ -91,15 +110,46 @@ App web React pour découvrir et acheter des plantes via une interface simple.
 
 ---
 
+## 📊 Statistiques GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mody9156&show_icons=true&theme=dracula&count_private=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mody9156&layout=compact&theme=dracula" height="150" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Mody9156&theme=dracula" height="150" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Mody9156&theme=dracula&row=1" height="150" />
+</div>
+
+---
+
 ## 📄 Liens utiles
 
 - 📬 Email : [modykeita2@gmail.com](mailto:modykeita2@gmail.com)  
-- 💼 [Mon LinkedIn](https://www.linkedin.com/in/modibo-keita-337746278)
-- 📱 [App sur l’App Store](https://apps.apple.com/fr/app/sitiens/id6749267968)
+- 💼 [Mon LinkedIn](https://www.linkedin.com/in/modibo-keita-337746278)  
+- 📱 [App sur l’App Store](https://apps.apple.com/fr/app/sitiens/id6749267968)  
 - 💻 GitHub :
   - [Compte principal – Mody9156](https://github.com/Mody9156?tab=repositories)
   - [Deuxième compte – KMIOS91](https://github.com/KMIOS91)
 
 ---
 
-Je suis toujours ouvert à de nouvelles opportunités et collaborations. N'hésitez pas à me contacter si vous souhaitez échanger ou travailler ensemble !
+<div align="center">
+  <a href="https://www.linkedin.com/in/modibo-keita-337746278">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&style=for-the-badge" height="25" />
+  </a>
+</div>
+
+---
+
+<p align="center">
+  <b>Je suis toujours ouvert à de nouvelles opportunités et collaborations.<br>
+  N'hésitez pas à me contacter si vous souhaitez échanger ou travailler ensemble !</b>
+</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mody9156/Mody9156/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mody9156/Mody9156/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Mody9156/Mody9156/output/pacman-contribution-graph.svg">
+</picture>
