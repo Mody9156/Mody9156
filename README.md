@@ -137,9 +137,3 @@ App web React pour découvrir et acheter des plantes via une interface simple.
   <b>Je suis toujours ouvert à de nouvelles opportunités et collaborations.<br>
   N'hésitez pas à me contacter si vous souhaitez échanger ou travailler ensemble !</b>
 </p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mody9156/Mody9156/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mody9156/Mody9156/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Mody9156/Mody9156/output/pacman-contribution-graph.svg">
-</picture>
