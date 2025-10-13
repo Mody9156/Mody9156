@@ -116,15 +116,6 @@ App web React pour découvrir et acheter des plantes via une interface simple.
 
 ## 📄 Liens utiles
 
-- 📬 Email : [modykeita2@gmail.com](mailto:modykeita2@gmail.com)  
-- 💼 [Mon LinkedIn](https://www.linkedin.com/in/modibo-keita-337746278)  
-- 📱 [App sur l’App Store](https://apps.apple.com/fr/app/sitiens/id6749267968)  
-- 💻 GitHub :
-  - [Compte principal – Mody9156](https://github.com/Mody9156?tab=repositories)
-  - [Deuxième compte – KMIOS91](https://github.com/KMIOS91)
-
----
-
 <div style="text-align:center;">
   <a href="mailto:modykeita2@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&color=D44638&style=for-the-badge" alt="Email" height="28"/>
