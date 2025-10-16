@@ -35,11 +35,38 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
 </p>
 
-**Langages** : Swift, JavaScript, HTML, CSS  
-**Frameworks** : SwiftUI, UIKit, Core Data, Combine  
-**Outils** : Xcode, Git, GitHub, Postman, Notion  
-**Architecture** : MVVM  
-**Tests** : XCTest, Tests unitaires, CI/CD  
+### ⚙️ Frameworks
+
+<p align="left">
+  <img src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96.png" alt="SwiftUI" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/SwiftUI-orange?style=for-the-badge&logo=swift&logoColor=white" alt="SwiftUI"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" alt="Core Data" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/Combine-purple?style=for-the-badge&logo=swift&logoColor=white" alt="Combine"/>
+</p>
+
+### 🧰 Outils
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" alt="Xcode" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/notion.svg" alt="Notion" width="40" height="40"/>
+</p>
+ 
+### 🧱 Architecture
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Architecture-MVVM-blueviolet?style=for-the-badge" alt="MVVM"/>
+</p>
+
+### 🧪 Tests
+
+<p align="left">
+  <img src="https://img.shields.io/badge/XCTest-Unit%20Tests-blue?style=for-the-badge" alt="XCTest"/>
+  <img src="https://img.shields.io/badge/CI%2FCD-Automation-success?style=for-the-badge" alt="CI/CD"/>
+</p>
+  
 
 ---
 
