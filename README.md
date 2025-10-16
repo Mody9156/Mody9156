@@ -145,9 +145,6 @@ App web React pour découvrir et acheter des plantes via une interface simple.
   <a href="https://github.com/Mody9156" target="_blank" rel="noopener">
     <img src="https://img.shields.io/static/v1?message=GitHub%20(Mody9156)&logo=github&color=181717&style=for-the-badge" alt="GitHub Mody9156" height="28"/>
   </a>
-  <a href="https://github.com/KMIOS91" target="_blank" rel="noopener">
-    <img src="https://img.shields.io/static/v1?message=GitHub%20(KMIOS91)&logo=github&color=181717&style=for-the-badge" alt="GitHub KMIOS91" height="28"/>
-  </a>
 </div>
 
 ---
