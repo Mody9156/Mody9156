@@ -48,7 +48,7 @@ Application iOS disponible sur l’App Store, développée pour la gestion et le
 
 ### 🔹 Sage (2025)
 Application iOS qui affiche des citations aléatoires pour inspirer et motiver les utilisateurs au quotidien.
-**Stack** : UIKIT 
+**Stack** : UIKIT
 🔗 [Lien GitHub](https://github.com/Mody9156/Sage)
 
 ---
