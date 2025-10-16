@@ -42,7 +42,7 @@
 Application iOS disponible sur l’App Store, développée pour la gestion et le suivi d’un projet spécifique.
 **Stack** : SwiftUI, Core Data, MVVM, CI/CD, tests unitaires   
 🔗 [Lien GitHub](https://github.com/Mody9156/SITIENS)
-🔗 [Lien GitHub](https://github.com/Mody9156/SITIENS)
+🔗 [App Store](https://apps.apple.com/fr/app/sitiens/id6749267968)
 
 ---
 
