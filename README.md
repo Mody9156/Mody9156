@@ -46,6 +46,13 @@ Application iOS disponible sur l’App Store, développée pour la gestion et le
 
 ---
 
+### 🔹 Sage (2025)
+Application iOS qui affiche des citations aléatoires pour inspirer et motiver les utilisateurs au quotidien.
+**Stack** : UIKIT 
+🔗 [Lien GitHub](https://github.com/Mody9156/Sage)
+
+---
+
 ### 🔹 MediStock (janv. 2025 – avr. 2025)
 Application iOS pour la gestion interne des stocks de médicaments, développée sur mesure pour un service logistique.  
 **Stack** : SwiftUI, Firebase, MVVM, CI/CD, tests unitaires  
