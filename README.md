@@ -38,10 +38,10 @@
 ### ⚙️ Frameworks
 
 <p align="left">
-  <img src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96.png" alt="SwiftUI" width="40" height="40"/>
-  <img src="https://img.shields.io/badge/SwiftUI-orange?style=for-the-badge&logo=swift&logoColor=white" alt="SwiftUI"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" alt="Core Data" width="40" height="40"/>
-  <img src="https://img.shields.io/badge/Combine-purple?style=for-the-badge&logo=swift&logoColor=white" alt="Combine"/>
+<img src="https://img.shields.io/badge/UIKit-lightgrey?style=for-the-badge&logo=apple&logoColor=white" alt="UIKit"/>
+<img src="https://img.shields.io/badge/SwiftUI-orange?style=for-the-badge&logo=swift&logoColor=white" alt="SwiftUI"/>
+<img src="https://img.shields.io/badge/Core%20Data-blue?style=for-the-badge&logo=sqlite&logoColor=white" alt="Core Data"/>
+<img src="https://img.shields.io/badge/Combine-purple?style=for-the-badge&logo=swift&logoColor=white" alt="Combine"/>
 </p>
 
 ### 🧰 Outils
