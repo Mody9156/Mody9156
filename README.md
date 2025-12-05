@@ -153,11 +153,11 @@ App web React pour découvrir et acheter des plantes via une interface simple.
 
 ## 📊 Statistiques GitHub
 
-<div align="center">
+/*<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mody9156&show_icons=true&theme=dracula&count_private=true" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mody9156&layout=compact&theme=dracula" height="150" />
 </div>
-
+*/
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Mody9156&theme=dracula" height="150" />
   <img src="https://github-profile-trophy.vercel.app/?username=Mody9156&theme=dracula&row=1" height="150" />
