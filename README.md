@@ -172,9 +172,7 @@ App web React pour découvrir et acheter des plantes via une interface simple.
   <a href="https://apps.apple.com/fr/app/sitiens/id6749267968" target="_blank" rel="noopener">
     <img src="https://img.shields.io/static/v1?message=App%20Store&logo=apple&color=000000&style=for-the-badge" alt="App Store" height="28"/>
   </a>
-  <a href="https://github.com/Mody9156" target="_blank" rel="noopener">
-    <img src="https://img.shields.io/static/v1?message=GitHub%20(Mody9156)&logo=github&color=181717&style=for-the-badge" alt="GitHub Mody9156" height="28"/>
-  </a>
+ 
 </div>
 
 ---
