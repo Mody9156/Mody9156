@@ -156,8 +156,8 @@ App web React pour découvrir et acheter des plantes via une interface simple.
 ![](https://github-readme-stats.vercel.app/api?username=Mody9156&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Mody9156&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mody9156&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 ![Snake animation](https://github.com/Mody9156/Mody9156/blob/output/github-contribution-grid-snake.svg)
+
 
 ---
 
