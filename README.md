@@ -161,8 +161,9 @@ App web React pour découvrir et acheter des plantes via une interface simple.
 ## 🐍 Snake Contribution Animation
 
 Voici mon animation de contributions GitHub :
-
-![Snake animation](https://github.com/Mody9156/Mody9156/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Mody9156/Mody9156/blob/output/github-snake.svg)
+![Snake dark mode](https://github.com/Mody9156/Mody9156/blob/output/github-snake-dark.svg)
+![Snake GIF](https://github.com/Mody9156/Mody9156/blob/output/ocean.gif)
 
 ---
 
