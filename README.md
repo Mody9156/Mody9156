@@ -158,14 +158,6 @@ App web React pour découvrir et acheter des plantes via une interface simple.
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mody9156&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-## 🐍 Snake Contribution Animation
-
-Voici mon animation de contributions GitHub :
-![Snake animation](https://github.com/Mody9156/Mody9156/blob/output/github-snake.svg)
-![Snake dark mode](https://github.com/Mody9156/Mody9156/blob/output/github-snake-dark.svg)
-![Snake GIF](https://github.com/Mody9156/Mody9156/blob/output/ocean.gif)
-
----
 
 ## 📄 Liens utiles
 
