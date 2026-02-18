@@ -12,16 +12,16 @@
 
 <p align="center">Développeur iOS passionné par la création d'applications élégantes, performantes et orientées utilisateur.<br>Je conçois des apps sur mesure pour l’écosystème Apple, en utilisant les dernières technologies Swift et SwiftUI.</p>
 
-<p align="center">🎯 Actuellement en recherche d'un <b>CDI en développement mobile iOS</b>.</p>
+<p align="center">🎯 Actuellement en recherche d'une <b>opportunité en développement mobile iOS</b>.</p>
 
 ---
 
 ## 🚀 Ce que je fais
 
 🌱 J’apprends et maîtrise **Swift**, **SwiftUI** et **UIKit**  
-👨‍💻 Je construis des projets personnels en utilisant **Xcode**, **Core Data**, **Combine**, **Firebase** et plus encore  
-🎯 Mon objectif : devenir un développeur mobile iOS polyvalent et compétent  
-💡 Mes ambitions : créer des apps utiles, contribuer à l’open source et collaborer avec d'autres passionnés  
+👨‍💻 Je développe des applications et projets concrets en utilisant **Xcode**, **Core Data**,** Combine** et **Firebase**
+🎯 Mon objectif : renforcer mes compétences et évoluer vers un rôle de développeur iOS confirmé 
+💡 Intéressé par la création d’applications utiles, la collaboration technique et les bonnes pratiques de développement
 
 ---
 
