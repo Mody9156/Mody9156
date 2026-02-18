@@ -19,8 +19,11 @@
 ## 🚀 Ce que je fais
 
 🌱 J’apprends et maîtrise **Swift**, **SwiftUI** et **UIKit**  
+
 👨‍💻 Je développe des applications et projets concrets en utilisant **Xcode**, **Core Data**,** Combine** et **Firebase**
+
 🎯 Mon objectif : renforcer mes compétences et évoluer vers un rôle de développeur iOS confirmé 
+
 💡 Intéressé par la création d’applications utiles, la collaboration technique et les bonnes pratiques de développement
 
 ---
