@@ -22,7 +22,7 @@
 
 👨‍💻 Je développe des applications et projets concrets en utilisant **Xcode**, **Core Data**,** Combine** et **Firebase**
 
-🎯 Mon objectif : renforcer mes compétences et évoluer vers un rôle de développeur iOS confirmé 
+🎯 Objectif : contribuer à des projets iOS ambitieux, au sein d’une équipe expérimentée, et continuer à développer mon expertise mobile.
 
 💡 Intéressé par la création d’applications utiles, la collaboration technique et les bonnes pratiques de développement
 
